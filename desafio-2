@@ -7,11 +7,11 @@ Comprender estos conceptos no solo facilita el aprendizaje de nuevos lenguajes y
 ## Desafíos - Respuestas <h2>
 
 
-Ejercicio 1: Sala de Espera de MediaRecorder, juego de adivinar el numero
+/Ejercicio 1: Sala de Espera de MediaRecorder, juego de adivinar el numero
 //Lógica de programmación
 //02. Condiciones y concatenación
 //DESAFIO : Sala de Espera de MediaRecorder, juego de adivinar el numero
-```
+```javascript
 alert('Bienvenido al juego del número secreto');
 ```
 // Agrega un console.log para verificar el valor de "intento" después de la entrada del usuario
