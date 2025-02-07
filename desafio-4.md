@@ -24,7 +24,7 @@ console.log('¡Bienvenida y bienvenido a nuestro sitio web!');
 let nombre = 'Bibiana Trujillo';
 
 console.log(`¡Hola, ${nombre}!`);
-
+````
 //ACTIVIDAD 3: Crea una variable llamada "nombre" y asígnale tu nombre. 
 //             Luego, utiliza alert para mostrar el mensaje "¡Hola, [tu nombre]!".
 
